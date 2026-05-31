@@ -1,0 +1,121 @@
+{
+  "name": "The Basics",
+  "game_version": null,
+  "created_by": "TheEZK",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.8",
+      "source": null,
+      "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
+      "files": [
+        "Download-103-3-1-8-1779793473\\BaseLib.dll",
+        "Download-103-3-1-8-1779793473\\BaseLib.json",
+        "Download-103-3-1-8-1779793473\\BaseLib.pck"
+      ],
+      "folder_name": "Download-103-3-1-8-1779793473",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/TheEZK/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_18997ca1.zip",
+      "bundle_sha256": "18997ca14a3fddc12d9b2c1c0682387951ffb6aabca1a4f5cf9c47c4a8f44fed"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.dll",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.json",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePaths-6-1-0-3-1773792441",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/TheEZK/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_378f5e2e.zip",
+      "bundle_sha256": "378f5e2e0cb9dab8fafadf17e8bb0bd46c9651150b2310e1a6457f1c04740235"
+    },
+    {
+      "name": "自定模式专精优先",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "f62e9366a8dfee18a053194de32d347b471e2f819658b2d7f033f10375230869",
+      "files": [
+        "SpecializationFirst\\StS2FeatureMod.dll",
+        "SpecializationFirst\\StS2FeatureMod.json",
+        "SpecializationFirst\\StS2FeatureMod.pck",
+        "SpecializationFirst\\StS2FeatureMod.pdb"
+      ],
+      "folder_name": "SpecializationFirst",
+      "mod_id": "StS2FeatureMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/TheEZK/sts2mm-profiles/releases/download/bundles/_v0.0.1_0734d398.zip",
+      "bundle_sha256": "0734d3985b6937434f31494395ceeffb2de5a8b1f22fde024f317794d1e489dc"
+    },
+    {
+      "name": "defect-full-art.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "2095d570b9f303c31df22f2937ffe97da087c396ffd98aab595423d22b1bdc11",
+      "files": [
+        "DefectFullArt CardArtEditor Pack V0.1.0-839-0-1-0-1778370795\\defect-full-art.cardartpack.json",
+        "DefectFullArt CardArtEditor Pack V0.1.0-839-0-1-0-1778370795\\README.md"
+      ],
+      "folder_name": "DefectFullArt CardArtEditor Pack V0.1.0-839-0-1-0-1778370795",
+      "enabled": true,
+      "bundle_url": "https://github.com/TheEZK/sts2mm-profiles/releases/download/bundles/defect-full-art_cardartpack_v0.0.0_cc4a16e2.zip",
+      "bundle_sha256": "cc4a16e275733af7a897c6e5e25f8793221a623665a0df5003523a40a097bea9"
+    },
+    {
+      "name": "ironclad-full-art.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "8a56a65a27fdf03be7174bbea79ef812f6d6c109df52747d0a08510271a1a2df",
+      "files": [
+        "IroncladFullArtPack 0.1.1-957-0-1-1-1779356531\\full_art_pngs\\ironclad\\not_yet.png",
+        "IroncladFullArtPack 0.1.1-957-0-1-1-1779356531\\full_art_pngs\\ironclad\\spite.png",
+        "IroncladFullArtPack 0.1.1-957-0-1-1-1779356531\\ironclad-full-art.cardartpack.json",
+        "IroncladFullArtPack 0.1.1-957-0-1-1-1779356531\\README.md"
+      ],
+      "folder_name": "IroncladFullArtPack 0.1.1-957-0-1-1-1779356531",
+      "enabled": true,
+      "bundle_url": "https://github.com/TheEZK/sts2mm-profiles/releases/download/bundles/ironclad-full-art_cardartpack_v0.0.0_11db025c.zip",
+      "bundle_sha256": "11db025c186a75c3a4eb3cbea796f558a32cea71070ef63bbf7889fcbd9f294a"
+    },
+    {
+      "name": "necrobinder-full-art.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "650fdcc06882f167067c799196f1a33a99b2c1881fe15aa9dbd77d2ef92d2600",
+      "files": [
+        "NecrobinderFullArt CardArtEditor Pack V0.1.2-883-0-1-2-1778856621\\CHANGELOG.md",
+        "NecrobinderFullArt CardArtEditor Pack V0.1.2-883-0-1-2-1778856621\\necrobinder-full-art.cardartpack.json",
+        "NecrobinderFullArt CardArtEditor Pack V0.1.2-883-0-1-2-1778856621\\README.md"
+      ],
+      "folder_name": "NecrobinderFullArt CardArtEditor Pack V0.1.2-883-0-1-2-1778856621",
+      "enabled": true,
+      "bundle_url": "https://github.com/TheEZK/sts2mm-profiles/releases/download/bundles/necrobinder-full-art_cardartpack_v0.0.0_29d7b2ed.zip",
+      "bundle_sha256": "29d7b2ed180636312b2c4b6664a19d8c7c17fa54a5c790b62a29317fb4a05c3c"
+    },
+    {
+      "name": "silent-full-art.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "cc841eb434d03f3af925821f5484908c99993db5ce6fa2cf19d682085571779d",
+      "files": [
+        "SilentFullArt CardArtEditor Pack V0.1.0-980-0-1-0-1779628227\\CHANGELOG.md",
+        "SilentFullArt CardArtEditor Pack V0.1.0-980-0-1-0-1779628227\\manual_pngs\\README.txt",
+        "SilentFullArt CardArtEditor Pack V0.1.0-980-0-1-0-1779628227\\manual_pngs\\silent\\abrasive.png",
+        "SilentFullArt CardArtEditor Pack V0.1.0-980-0-1-0-1779628227\\README.md",
+        "SilentFullArt CardArtEditor Pack V0.1.0-980-0-1-0-1779628227\\silent-full-art.cardartpack.json"
+      ],
+      "folder_name": "SilentFullArt CardArtEditor Pack V0.1.0-980-0-1-0-1779628227",
+      "enabled": true,
+      "bundle_url": "https://github.com/TheEZK/sts2mm-profiles/releases/download/bundles/silent-full-art_cardartpack_v0.0.0_52fe95b0.zip",
+      "bundle_sha256": "52fe95b08cf268f1de883f1381fb1766eafeeda73a926e563e6164f72754f57d"
+    }
+  ],
+  "created_at": "2026-05-31T19:58:24.704911400Z",
+  "updated_at": "2026-05-31T19:58:45.421424500Z",
+  "public": false
+}
